@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TableLayout_ViewPager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_first">First fragment</string>
+    <string name="fragment_second">Second fragment</string>
+    <string name="fragment_third">Third fragment</string>
+
 </resources>
